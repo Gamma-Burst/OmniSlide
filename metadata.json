@@ -1,0 +1,5 @@
+{
+  "name": "OmniSlide",
+  "description": "A Google Cloud Native presentation generator using Vertex AI (Gemini 2.5) and Liquid Canvas technology.",
+  "requestFramePermissions": []
+}
